@@ -5,7 +5,7 @@
       font-size: 45px;
       fill: black; /* Цвет текста */
       stroke: white; /* Цвет контура */
-      stroke-width: 1px; /* Ширина контура */
+      stroke-width: 0.3px; /* Ширина контура */
       font-weight: bold;
     }
   </style>
