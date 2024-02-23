@@ -2,10 +2,11 @@
   <style>
     text {
       font-family: 'Far Cry Cyr Regular';
-      font-size: 30px;
-      fill: white; /* Цвет текста */
-      stroke: black; /* Цвет контура */
+      font-size: 45px;
+      fill: black; /* Цвет текста */
+      stroke: white; /* Цвет контура */
       stroke-width: 1px; /* Ширина контура */
+      font-weight: bold;
     }
   </style>
   <text x="0" y="50">Good and evil cannot be equal. Respond ˹to evil˺ with what is best, then the one you are in a feud with will be like a close friend.</text>
