@@ -32,17 +32,13 @@
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ubuntu_plain_wordmark_logo_icon_146632.png" align="left" alt="ubuntu" height='60px'/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-plain-wordmark.svg" align="left" alt="vscode" height='60px'/> </a>
 </div>
-
-<br>
-
-
-
 <br>
 <br>
 <br>
 <br>
 <br>
-   
+<br>
+  
 ### 📊 Github Stats:  
 
 <p align="center">
@@ -58,6 +54,23 @@
     </tr>
   </table>
 </p>
+<br>
+<hr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andy-ahmedov/andy-ahmedov/cd499c89f309c87e0f309f22b59f24ff65605ad3/files/text.svg" alt="Text" />
+   <br>
+<br>
+<a target="_blank" href="mailto:andy.ahmedov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://t.me/blackjack_son"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/andy_ahmedov09/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<br>
+</p>
+
+
+
+
+
+
 
 
 
