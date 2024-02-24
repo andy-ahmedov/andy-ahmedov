@@ -66,7 +66,7 @@
 <br>
 <hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andy-ahmedov/andy-ahmedov/cd499c89f309c87e0f309f22b59f24ff65605ad3/files/text.svg" alt="Text" />
+  <img src="https://raw.githubusercontent.com/andy-ahmedov/andy-ahmedov/730e83bf1901ecfc7e3529187b48fea109d81401/files/text.svg" alt="Text" />
    <br>
 <br>
 <a target="_blank" href="mailto:andy.ahmedov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
