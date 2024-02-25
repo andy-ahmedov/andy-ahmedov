@@ -23,9 +23,9 @@
 <br>
 <br>
   <a href="https://www.debian.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/debian/debian-plain.svg" align="left" alt="debian" height='50px'/> </a>
-  <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/digitalocean/digitalocean-original.svg" align="left" alt="digital-ocean" height='50px'/> </a>
+  <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/digitalocean/digitalocean-original.svg" align="left" alt="digital-ocean" height='40px'/> </a>
   <a href="https://www.github.com/" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/github-1024.png" align="left" alt="github" height='50px'/> </a>
-  <a href="https://github.com/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg" align="left" alt="github-actions" height='50px'/> </a>
+  <a href="https://github.com/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg" align="left" alt="github-actions" height='45px'/> </a>
   <a href="https://www.jetbrains.com/go/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/goland/goland-original.svg" align="left" alt="goland" height='50px'/> </a>
   <a href="https://grpc.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/grpc/grpc-original.svg" align="left" alt="grpc" height='50px'/> </a>
   <a href="https://www.json.org/json-en.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-plain.svg" align="left" alt="json" height='50px'/> </a>
