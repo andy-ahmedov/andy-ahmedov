@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://github.com/andy-ahmedov/andy-ahmedov/blob/main/files/Transparent_logo.png?raw=true" alt="Logo">
+  <hr>
   <img src="https://github.com/andy-ahmedov/andy-ahmedov/blob/main/files/Transparent_description.png?raw=true" alt="Descrption">
 </p>
 
+<hr>
 
 ### 🔨 Languages and Tools:
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='60px'/> </a>
@@ -38,6 +40,8 @@
 <br>
 <br>
 <br>
+
+<hr>
   
 ### 📊 Github Stats:  
 
